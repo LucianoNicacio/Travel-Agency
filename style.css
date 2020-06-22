@@ -1,7 +1,3 @@
-/* #57a197 BLUE */
-/* #e0e2db white */
-/* #e6af2e yellow */
-
 * {
   margin: 0;
   padding: 0;
@@ -316,6 +312,7 @@ nav ul li a:hover {
 
 #destinations .title-text {
   color: #191716;
+  font-size: 30px;
 }
 
 #destinations .title-underline {
